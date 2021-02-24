@@ -1,2 +1,1 @@
-# gaowang378.github.io
-blog
+个人博客
